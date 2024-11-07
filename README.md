@@ -1,5 +1,17 @@
+<div align="center" id="node" >
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I%27m+Rohan+Salunkhe;Welcome+to+my+profile!" alt="Title"></img>
+
+ <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662565610555/g-6GLxgru.gif?auto=format,compress&gif-q=60&format=webm"></img>
+ </div>
+ 
+
+
+
+
+
+
 # 💫 About Me:
-I am currently working on my web dev skills , my tech stack i mern stack<br>i would love to collaborate on some front end projects .<br>
+I am currently working on my web dev skills ,specially mern <br>i would love to collaborate on some full stack end projects .<br>
 
 
 ## 🌐 Socials:
